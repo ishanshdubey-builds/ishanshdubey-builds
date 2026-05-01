@@ -18,9 +18,8 @@
 Name     : Ishansh Dubey
 Role     : Software Developer (in the making)
 Degree   : MCA @ TIMSCDR, Mumbai (2025–2027)
-Focus    : Backend · AI/ML · DSA
+Focus    : Frontend · Backend · AI/ML · DSA
 Status   : 🟢 Available for Internships
-Goal     : UK SWE Role by Jan 2027
 ```
 
 <br clear="right"/>
@@ -108,9 +107,7 @@ Goal     : UK SWE Role by Jan 2027
 ```
 [██████████░░░░░░░░░░] DSA Mastery (Striver A2Z)      — In Progress
 [████████░░░░░░░░░░░░] OculusAI Capstone              — Building
-[██████░░░░░░░░░░░░░░] IELTS Preparation              — Upcoming  
-[████░░░░░░░░░░░░░░░░] UK Internship Applications     — Q3 2026
-[██░░░░░░░░░░░░░░░░░░] Russell Group MSc Applications — 2027
+
 ```
 
 ---
