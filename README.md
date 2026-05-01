@@ -32,42 +32,34 @@ const ishansh = {
 
 ## ⚡ Currently Shipping
 
-<table>
+<table width="100%">
 <tr>
-
 <td width="50%" valign="top">
 
-### 🎬 OculusAI `Active`
+**🎬 OculusAI** &nbsp;`Active`
 
 AI video → viral clips engine
 
-**Tech:**
+```
 FastAPI · Whisper · GPT-4 · FFmpeg
-Next.js · Python
-
-**Highlights:**
-
-* Auto-detects viral moments via NLP
-* Converts long videos → short clips
+Next.js frontend · Python backend
+Auto-detects viral moments via NLP
+```
 
 </td>
-
 <td width="50%" valign="top">
 
-### 🏥 Doctor Appointment System `Live`
+**🏥 Doctor Appointment System** &nbsp;`Live`
 
 Full-stack healthcare platform
 
-**Tech:**
+```
 Spring Boot · JWT · MySQL · React
-
-**Highlights:**
-
-* Role-based auth (Doctor / Patient)
-* Deployed on Railway + Netlify
+Role-based auth: Doctor / Patient
+Deployed → Railway + Netlify
+```
 
 </td>
-
 </tr>
 </table>
 
