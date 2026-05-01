@@ -1,53 +1,63 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ishansh%20Dubey&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Building%20the%20future,%20one%20commit%20at%20a%20time&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,30:0d1b4b,70:1a1a3e,100:0a0a1a&height=220&section=header&text=Ishansh%20Dubey&fontSize=65&fontColor=e2e8f0&fontAlignY=40&desc=Software%20Engineer%20in%20Progress%20%7C%20Building%20Real%20Things&descSize=15&descAlignY=60&animation=fadeIn" width="100%"/>
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&width=700&height=80&lines=MCA+Student+%40+TIMSCDR+Mumbai;Full+Stack+%7C+AI+%7C+DSA+Grinder;Turning+Ideas+Into+Products)](https://git.io/typing-svg)
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=1000&color=818CF8&center=true&vCenter=true&width=500&height=45&lines=MCA+%40+TIMSCDR+Mumbai+%7C+2025%E2%80%932027;Java+%7C+Spring+Boot+%7C+React+%7C+Python;DSA+%C2%B7+AI+%C2%B7+Full+Stack+%C2%B7+System+Design)](https://git.io/typing-svg)
 
 </div>
 
+<br/>
+
 ---
 
-<img align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=ishanshdubey-builds&theme=tokyo-night&hide_border=true&area=true" width="55%"/>
+<img align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=ishanshdubey-builds&theme=tokyo-night&hide_border=true&area=true&area_color=4f46e5&line=818cf8&point=c7d2fe" width="52%"/>
 
-### `> whoami`
+### `$ whoami`
 
-```yaml
-Name     : Ishansh Dubey
-Role     : Software Developer (in the making)
-Degree   : MCA @ TIMSCDR, Mumbai (2025–2027)
-Focus    : Frontend · Backend · AI/ML · DSA
-Status   : 🟢 Available for Internships
+```typescript
+const ishansh = {
+  name    : "Ishansh Dubey",
+  degree  : "MCA @ TIMSCDR, Mumbai",
+  focus   : ["Backend", "AI/ML", "DSA"],
+  status  : "Open to Internships",
+  building: ["OculusAI"]
+};
 ```
 
 <br clear="right"/>
 
 ---
 
-## ⚡ What I'm Building
+## ⚡ Currently Shipping
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎬 OculusAI *(Active)*
-> AI-powered video-to-viral-clips engine
+**🎬 OculusAI** &nbsp;`Active`
 
-- `FastAPI` + `Whisper` + `GPT-4` + `FFmpeg`
-- Detects viral moments via transcript scoring
-- Frontend: `Next.js` · Backend: `Python`
+AI video → viral clips engine
+
+```
+FastAPI · Whisper · GPT-4 · FFmpeg
+Next.js frontend · Python backend
+Auto-detects viral moments via NLP
+```
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏥 Doctor Appointment System *(Live)*
-> Full-stack healthcare platform
+**🏥 Doctor Appointment System** &nbsp;`Live`
 
-- `Spring Boot` + `JWT` + `MySQL`
-- Role-based auth (Doctor / Patient)
-- Frontend: `React` · Deployed: `Railway + Netlify`
+Full-stack healthcare platform
+
+```
+Spring Boot · JWT · MySQL · React
+Role-based auth: Doctor / Patient
+Deployed → Railway + Netlify
+```
 
 </td>
 </tr>
@@ -55,82 +65,67 @@ Status   : 🟢 Available for Internships
 
 ---
 
-## 🛠 Tech Arsenal
+## 🛠 Tech Stack
 
 <div align="center">
 
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Backend**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-**Database & Tools**
-
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=f97316)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=eab308)
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=60a5fa)
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=38bdf8)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=e2e8f0)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-111827?style=for-the-badge&logo=springboot&logoColor=4ade80)
+![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=34d399)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=86efac)
+![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=60a5fa)
+![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=4ade80)
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=f87171)
+![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=38bdf8)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ishanshdubey-builds&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanshdubey-builds&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ishanshdubey-builds&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=818cf8&icon_color=6366f1&text_color=cbd5e1" height="160"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanshdubey-builds&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=cbd5e1" height="160"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ishanshdubey-builds&theme=tokyonight&hide_border=true&background=0d1117" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ishanshdubey-builds&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=818cf8&currStreakLabel=a5b4fc" width="55%"/>
 
 </div>
 
 ---
 
-## 🎯 2026 Roadmap
+## 🎯 Roadmap 2026–27
 
 ```
-[██████████░░░░░░░░░░] DSA Mastery (Striver A2Z)      — In Progress
-[████████░░░░░░░░░░░░] OculusAI Capstone              — Building
-
+DSA Mastery — Striver A2Z      ████████████░░░░░░░░  60%  In Progress
+OculusAI Capstone              ██████████░░░░░░░░░░  50%  Building
 ```
 
 ---
 
-## 📫 Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ishanshdubey)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ishansh-dubey)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
+[![LeetCode](https://img.shields.io/badge/LeetCode-ffa116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ishanshdubey)
+[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ishansh-dubey)
+[![Gmail](https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
+
+<br/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=ishanshdubey-builds&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
-
-*"The best time to start was yesterday. The next best time is now."*
-
-![Visitor Count](https://komarev.com/ghpvc/?username=ishanshdubey-builds&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,30:0d1b4b,70:1a1a3e,100:0a0a1a&height=120&section=footer" width="100%"/>
 </div>
