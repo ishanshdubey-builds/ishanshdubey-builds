@@ -104,7 +104,7 @@ Deployed → Railway + Netlify
 ## 🎯 Roadmap 2026–27
 
 ```
-DSA Mastery — Striver A2Z      ████████████░░░░░░░░  60%  In Progress
+DSA Mastery                    ████████████░░░░░░░░  60%  In Progress
 OculusAI Capstone              ██████████░░░░░░░░░░  50%  Building
 ```
 
