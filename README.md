@@ -16,7 +16,7 @@
 
 ### `$ whoami`
 
-```typescrip
+```typescript
 const ishansh = {
   name    : "Ishansh Dubey",
   degree  : "MCA @ TIMSCDR, Mumbai",
