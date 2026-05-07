@@ -1,4 +1,4 @@
-<div align="center"
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,30:0d1b4b,70:1a1a3e,100:0a0a1a&height=220&section=header&text=Ishansh%20Dubey&fontSize=65&fontColor=e2e8f0&fontAlignY=40&desc=Software%20Engineer%20in%20Progress%20%7C%20Building%20Real%20Things&descSize=15&descAlignY=60&animation=fadeIn" width="100%"/>
 
