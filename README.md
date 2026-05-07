@@ -21,7 +21,6 @@ const ishansh = {
   name    : "Ishansh Dubey",
   degree  : "MCA @ TIMSCDR, Mumbai",
   focus   : ["Backend", "AI/ML", "DSA"],
-  status  : "Open to Internships",
   building: ["OculusAI"]
 };
 ```
