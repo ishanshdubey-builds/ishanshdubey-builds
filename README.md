@@ -42,7 +42,7 @@ AI video → viral clips engine
 ```
 FastAPI · Whisper · GPT-4 · FFmpeg
 Next.js frontend · Python backend
-Auto-detects viral moments via NLP
+Auto-detects viral moments via NLP.
 ```
 
 </td>
